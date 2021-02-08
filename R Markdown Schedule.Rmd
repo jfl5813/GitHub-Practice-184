@@ -1,0 +1,26 @@
+---
+title: "R Markdown Schedule"
+author: "Jack Lu"
+date: "2/8/2021"
+output: html_notebook
+---
+
+# Schedule
+
+
+### STAT 184: Introduction to R Programming
+
+
+### STAT 480: Introduction to SAS Programming
+
+
+
+
+### Hobby: Swimming
+
+
+
+### Hobby: Watch Movies
+
+
+
